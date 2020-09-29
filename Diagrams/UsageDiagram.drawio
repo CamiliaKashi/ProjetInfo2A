@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T08:54:31.326Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Vgj503ePiZRQZJ4GfCyL" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T08:56:59.866Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="lGktp-suyh9FlkupI1Zu" version="13.7.6" type="github">
   <diagram id="hAnzvrFehZ6wKq_byTHN" name="Page-1">
-    <mxGraphModel dx="1422" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,9 +21,6 @@
             <mxPoint x="185" y="335" as="sourcePoint" />
             <mxPoint x="296" y="265" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tgZ7G9DhuxtUKycxwcGr-9" value="Utilisateur &lt;br&gt;connecté" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="113" y="323" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tgZ7G9DhuxtUKycxwcGr-10" value="Ajouter un jeu&amp;nbsp;&lt;br&gt;Admin only" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="339" y="645" width="120" height="80" as="geometry" />
@@ -73,10 +70,10 @@
         <mxCell id="tgZ7G9DhuxtUKycxwcGr-26" value="Jeu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710.8" y="53" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tgZ7G9DhuxtUKycxwcGr-29" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.483;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tgZ7G9DhuxtUKycxwcGr-18" target="9zWFp66QjIJX7NVRdvDP-12" edge="1">
+        <mxCell id="tgZ7G9DhuxtUKycxwcGr-29" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tgZ7G9DhuxtUKycxwcGr-18" target="9zWFp66QjIJX7NVRdvDP-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="645" y="421" as="sourcePoint" />
-            <mxPoint x="516" y="371" as="targetPoint" />
+            <mxPoint x="612" y="496" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tgZ7G9DhuxtUKycxwcGr-31" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9zWFp66QjIJX7NVRdvDP-12" target="tgZ7G9DhuxtUKycxwcGr-32" edge="1">
@@ -147,6 +144,9 @@
             <mxPoint x="191" y="358" as="sourcePoint" />
             <mxPoint x="363.1425109895267" y="469.20516243160864" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="337YRapYeEFcBrLyCYY4-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="102" y="333" width="36" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
